@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction using Machine Learning
 
-> **Internship Project | Naviotech Solutions | AI/ML Domain | March 2026**
+> ** AI/ML Domain | March 2026**
 
 ---
 
